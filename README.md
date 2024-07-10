@@ -52,7 +52,3 @@ npm install
 ```bash
 npm start
 ```
-
-## Authors / Maintainers :man_technologist: :woman_technologist:
-
-- **Martin Luz** - _Code owner_ - [MarLuz](https://github.com/MarLuz)
