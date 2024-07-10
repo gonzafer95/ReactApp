@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94e89c73.css",
+    "main.js": "/static/js/main.a5923118.js",
+    "static/js/787.2843ca88.chunk.js": "/static/js/787.2843ca88.chunk.js",
+    "static/media/to-do-icon.png": "/static/media/to-do-icon.11e7a13ded621fa51f54.png",
+    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/index.html",
+    "main.94e89c73.css.map": "/static/css/main.94e89c73.css.map",
+    "main.a5923118.js.map": "/static/js/main.a5923118.js.map",
+    "787.2843ca88.chunk.js.map": "/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94e89c73.css",
+    "static/js/main.a5923118.js"
+  ]
+}
